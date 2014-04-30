@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality" fill-rule="evenodd" xml:space="preserve" clip-rule="evenodd" viewBox="0 0 210 297">
+ <defs>
+  <style type="text/css">
+    .str0 {stroke:#2A2A29;stroke-width:0.0762}
+    .fil0 {fill:none}
+    .fil2 {fill:#FEFEFE}
+    .fil3 {fill:url(#id0)}
+    .fil1 {fill:url(#id1)}
+    .fil4 {fill:url(#id2)}
+  </style>
+  <radialGradient id="id0" gradientUnits="userSpaceOnUse" cy="161.61" cx="95.658" r="15.003">
+   <stop stop-color="#ECECEC" offset="0"/>
+   <stop stop-color="#FEFEFE" offset="1"/>
+  </radialGradient>
+  <radialGradient id="id1" gradientUnits="userSpaceOnUse" cy="142.11" cx="226.06" r="58.738">
+   <stop stop-color="#FEFEFE" offset="0"/>
+   <stop stop-color="#171717" offset="1"/>
+  </radialGradient>
+  <radialGradient id="id2" xlink:href="#id1" gradientUnits="userSpaceOnUse" cy="118.11" cx="166.4" r="10.502">
+  </radialGradient>
+ </defs>
+ <g id="Layer_x0020_4">
+  <g id="_277489496">
+   <circle id="_275211152" cy="137.7" cx="104.67" r="90" class="fil0 str0"/>
+   <path id="_275210480" class="fil0" d="m149.72 215.72c42.968-24.808 57.741-79.696 33.078-122.71l-0.1353-0.235-0.1359-0.2347c-24.917-42.865-79.838-57.515-122.81-32.708-43.046 24.853-57.795 79.896-32.942 122.94 24.853 43.046 79.896 57.795 122.94 32.942z"/>
+   <path id="_275210408" class="fil1" d="m104.62 137.61c12.426 21.523 5.052 49.045-16.471 61.471s-49.045 5.0521-61.472-16.471c-24.853-43.046-10.104-98.09 32.942-122.94 42.968-24.808 97.889-10.158 122.81 32.708-12.49-21.342-39.89-28.618-61.335-16.237-21.523 12.426-28.898 39.948-16.471 61.471zm-31.471 35.49c7.1743-4.1421 9.6325-13.316 5.4904-20.49-4.1421-7.1743-13.316-9.6324-20.49-5.4903-7.1743 4.1421-9.6325 13.316-5.4904 20.49 4.1421 7.1744 13.316 9.6325 20.49 5.4904z"/>
+   <path id="_55254264" class="fil2" d="m104.62 137.61c-12.426-21.523-5.052-49.045 16.471-61.471 21.445-12.381 48.844-5.1055 61.335 16.237 0.0455 0.0781 0.0908 0.1563 0.136 0.2346s0.0903 0.1567 0.1352 0.2351c24.664 43.011 9.8905 97.9-33.078 122.71-43.046 24.853-98.09 10.104-122.94-32.942 12.427 21.523 39.948 28.897 61.472 16.471 21.523-12.426 28.898-39.948 16.471-61.471zm46.471-9.5096c7.1744-4.1421 9.6325-13.316 5.4904-20.49-4.1422-7.1744-13.316-9.6325-20.49-5.4903-7.1744 4.1421-9.6325 13.316-5.4904 20.49 4.1422 7.1744 13.316 9.6326 20.49 5.4904z"/>
+   <path id="_54907960" class="fil3" d="m58.153 147.12c7.1743-4.1421 16.348-1.684 20.49 5.4903 4.1421 7.1744 1.6839 16.348-5.4904 20.49-7.1743 4.1421-16.348 1.684-20.49-5.4904-4.1421-7.1743-1.6839-16.348 5.4904-20.49z"/>
+   <path id="_54908608" class="fil4" d="m151.1 128.1c-7.1744 4.1422-16.348 1.684-20.49-5.4904-4.1421-7.1744-1.684-16.348 5.4904-20.49 7.1744-4.1422 16.348-1.6841 20.49 5.4903 4.1421 7.1744 1.684 16.348-5.4904 20.49z"/>
+  </g>
+ </g>
+<metadata><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/><dc:publisher><cc:Agent rdf:about="http://openclipart.org/"><dc:title>Openclipart</dc:title></cc:Agent></dc:publisher><dc:title>Tai Chi Tu</dc:title><dc:date>2013-05-18T18:57:55</dc:date><dc:description>Taichitu symbol. Taoist symbol of yin&amp;yang. Symbol of ballance in nature.</dc:description><dc:source>http://openclipart.org/detail/178309/tai-chi-tu-by-atomik-178309</dc:source><dc:creator><cc:Agent><dc:title>atomik</dc:title></cc:Agent></dc:creator><dc:subject><rdf:Bag><rdf:li>ballance</rdf:li><rdf:li>chinese</rdf:li><rdf:li>dao</rdf:li><rdf:li>daoist</rdf:li><rdf:li>good-bad</rdf:li><rdf:li>tai-chi</rdf:li><rdf:li>taichi</rdf:li><rdf:li>tao</rdf:li><rdf:li>taoist</rdf:li><rdf:li>yin&amp;yang</rdf:li><rdf:li>yin-yang</rdf:li></rdf:Bag></dc:subject></cc:Work><cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/"><cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/><cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/><cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/></cc:License></rdf:RDF></metadata></svg>
